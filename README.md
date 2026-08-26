@@ -39,9 +39,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
