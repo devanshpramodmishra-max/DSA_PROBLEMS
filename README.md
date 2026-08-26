@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
 | [2951-find-the-peaks](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/2951-find-the-peaks) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
@@ -48,9 +50,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
