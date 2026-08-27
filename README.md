@@ -36,12 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Trie
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,14 +67,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
