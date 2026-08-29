@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
