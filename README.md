@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0707-design-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
