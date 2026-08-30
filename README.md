@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0707-design-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Design
 |  |
