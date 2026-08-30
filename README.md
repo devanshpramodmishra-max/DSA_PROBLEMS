@@ -89,5 +89,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0707-design-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
