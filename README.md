@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
