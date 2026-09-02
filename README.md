@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -144,4 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
