@@ -1,36 +1,27 @@
 class Solution {
     public ListNode swapNodes(ListNode head, int k) {
-        if(head == null){
-            return null;
-        }
 
-        int size = 1;
-        ListNode temp = head;
-
-        while(temp.next != null){
-            temp = temp.next;
-            size++;
-        }
-
-        temp = head;
+        ListNode fast = head;
         ListNode first = null;
-        ListNode second = null;
+        ListNode second = head;
 
-        for(int i = 1; i <= size; i++){
-            if(i == k){
-                first = temp;
-            }
-
-            if(i == size + 1 - k){
-                second = temp;
-            }
-
-            temp = temp.next;
+        // Move fast to kth node
+        for(int i = 1; i < k; i++){
+            fast = fast.next;
         }
 
-        int val = first.val;
+        first = fast;
+
+        // Move both pointers
+        while(fast.next != null){
+            fast = fast.next;
+            second = second.next;
+        }
+
+        // Swap values
+        int temp = first.val;
         first.val = second.val;
-        second.val = val;
+        second.val = temp;
 
         return head;
     }
