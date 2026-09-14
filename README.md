@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0347-top-k-frequent-elements) |
 | [0904-fruit-into-baskets](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
