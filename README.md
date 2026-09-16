@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0062-unique-paths) |
 | [0989-add-to-array-form-of-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0518-coin-change-ii) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0518-coin-change-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/devanshpramodmishra-max/DSA_PROBLEMS/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
