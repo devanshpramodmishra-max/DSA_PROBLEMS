@@ -1,40 +1,34 @@
 class Solution {
 
-    public int solve(int[] nums, int i, int prev, int[][] dp) {
-
-        if (i == nums.length) {
-            return 0;
-        }
-
-        if (dp[i][prev + 1] != -1) {
-            return dp[i][prev + 1];
-        }
-
-        // Exclude
-        int exclude = solve(nums, i + 1, prev, dp);
-
-        // Include
-        int include = 0;
-
-        if (prev == -1 || nums[i] > nums[prev]) {
-            include = 1 + solve(nums, i + 1, i, dp);
-        }
-
-        dp[i][prev + 1] = Math.max(include, exclude);
-
-        return dp[i][prev + 1];
-    }
-
     public int lengthOfLIS(int[] nums) {
 
-        int n = nums.length;
+        int[] tails = new int[nums.length];
+        int size = 0;
 
-        int[][] dp = new int[n][n + 1];
+        for (int num : nums) {
 
-        for (int i = 0; i < n; i++) {
-            java.util.Arrays.fill(dp[i], -1);
+            int left = 0;
+            int right = size;
+
+            // Binary search
+            while (left < right) {
+
+                int mid = left + (right - left) / 2;
+
+                if (tails[mid] < num) {
+                    left = mid + 1;
+                } else {
+                    right = mid;
+                }
+            }
+
+            tails[left] = num;
+
+            if (left == size) {
+                size++;
+            }
         }
 
-        return solve(nums, 0, -1, dp);
+        return size;
     }
 }
